@@ -1,0 +1,13 @@
+                  MAIN FEATURES OF THIS PROJECT IS
+                ------------------------------------
+# multiple user authentication using foreign key
+# Django import export for the data backup
+# Crud operation with class based view and function based view
+# use django-crispy-forms
+# normal search and complex search 
+# Jinga 2 is used in template
+# use pillow library for the image 
+# manage static, template and media files for the images and css, js, html files
+# Template inheritance 
+# used PIP for the package manager
+# handle the 404 and 500 error
